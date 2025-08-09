@@ -1,0 +1,13 @@
+Git Hub
+
+Created Folder opened git bash there and give command
+
+> git inti -> it will create hidden .git folder and will act as an local repository
+> git status -> will give all untracked file(the one you didnt told to git about)
+> git add <file> -> Stage a file
+> git add -> all or git add -A - Stage all changes
+> git status -> See what is staged
+> git restore -> staged <file> -> Unstage a file
+> git restore --staged <file> -> restore staged changes
+
+
